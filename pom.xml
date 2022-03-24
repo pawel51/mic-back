@@ -126,13 +126,13 @@
         </dependency>
 
     </dependencies>
-<!--    <repositories>-->
-<!--        <repository>-->
-<!--            <id>hand-china-repo</id>-->
-<!--            <name>HandChinaRepo</name>-->
-<!--            <url>http://nexus.saas.hand-china.com/content/repositories/rdc/</url>-->
-<!--        </repository>-->
-<!--    </repositories>-->
+    <repositories>
+        <repository>
+            <id>hand-china-repo</id>
+            <name>HandChinaRepo</name>
+            <url>http://nexus.saas.hand-china.com/content/repositories/rdc/</url>
+        </repository>
+    </repositories>
 
     <build>
         <plugins>
